@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemTemplate", "ItemTemplate\ItemTemplate.csproj", "{DEFEA701-42CE-425C-A3CD-EA2D5262CBE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemTemplate.VsixPackage", "ItemTemplate.VsixPackage\ItemTemplate.VsixPackage.csproj", "{D315FC5A-6E4C-4572-AFE9-CE19259E946C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3C7E1C1-A09F-4495-ACC4-F3FD2CC10CA2}"
+	ProjectSection(SolutionItems) = preProject
+		..\.bettercodehub.yml = ..\.bettercodehub.yml
+		..\.codebeatignore = ..\.codebeatignore
+		..\.gitattributes = ..\.gitattributes
+		..\.gitignore = ..\.gitignore
+		..\.hound.yml = ..\.hound.yml
+		..\.sonarcloud.properties = ..\.sonarcloud.properties
+		..\appveyor.yml = ..\appveyor.yml
+		..\azure-pipelines.yml = ..\azure-pipelines.yml
+		..\CHANGELOG.md = ..\CHANGELOG.md
+		..\LICENSE = ..\LICENSE
+		..\LICENSE.txt = ..\LICENSE.txt
+		..\README.md = ..\README.md
+		..\renovate.json = ..\renovate.json
+		..\TODO.txt = ..\TODO.txt
+		VsmpPublish.bat = VsmpPublish.bat
+		VsmpPublish.json = VsmpPublish.json
+		VsmpReadMe.md = VsmpReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFEA701-42CE-425C-A3CD-EA2D5262CBE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFEA701-42CE-425C-A3CD-EA2D5262CBE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFEA701-42CE-425C-A3CD-EA2D5262CBE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFEA701-42CE-425C-A3CD-EA2D5262CBE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D315FC5A-6E4C-4572-AFE9-CE19259E946C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D315FC5A-6E4C-4572-AFE9-CE19259E946C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D315FC5A-6E4C-4572-AFE9-CE19259E946C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D315FC5A-6E4C-4572-AFE9-CE19259E946C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93264AE9-E80C-4095-AFE8-2FDDC14B4424}
+	EndGlobalSection
+EndGlobal

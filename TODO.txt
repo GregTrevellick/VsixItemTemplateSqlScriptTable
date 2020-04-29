@@ -1,0 +1,10 @@
+badges
+appveyor
+sonar
+
+publish sproc / func / table / view / synonym   first
+
+
+//https://docs.microsoft.com/en-us/visualstudio/extensibility/creating-custom-project-and-item-templates?view=vs-2019#create-an-item-template
+//https://docs.microsoft.com/en-us/visualstudio/ide/template-tags?view=vs-2019
+//https://docs.microsoft.com/en-us/visualstudio/extensibility/visual-studio-template-schema-reference?view=vs-2019
