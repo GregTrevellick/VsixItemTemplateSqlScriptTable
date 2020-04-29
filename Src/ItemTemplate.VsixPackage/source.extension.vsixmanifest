@@ -2,14 +2,14 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="A20D98B0-87D6-44DB-86FB-6244668BB060" Version="1.11.13" Language="en-US" Publisher="Greg Trevellick" />
-        <DisplayName>SQL Server Stored Procedure</DisplayName>
-        <Description xml:space="preserve">An item template for creating / altering a SQL Server stored procedure.</Description>
-        <MoreInfo>https://github.com/GregTrevellick/VsixItemTemplateSqlScriptStoredProcedure</MoreInfo>
+        <DisplayName>SQL Server Table</DisplayName>
+        <Description xml:space="preserve">An item template for creating / altering a SQL Server table.</Description>
+        <MoreInfo>https://github.com/GregTrevellick/VsixItemTemplateSqlScriptTable</MoreInfo>
         <License>LICENSE.txt</License>
-        <GettingStartedGuide>https://github.com/GregTrevellick/VsixItemTemplateSqlScriptStoredProcedure</GettingStartedGuide>
+        <GettingStartedGuide>https://github.com/GregTrevellick/VsixItemTemplateSqlScriptTable</GettingStartedGuide>
         <Icon>Resources\VsixExtensionPreview_IncludeInVsix_90x90.png</Icon>
         <PreviewImage>Resources\VsixExtensionPreview_IncludeInVsix_175x175.png</PreviewImage>
-        <Tags>sql; tsql; sequel; sql server; sequel server; database; script; sql script; sequel script; stored procedure; procedure; sproc;</Tags>
+        <Tags>sql; tsql; sequel; sql server; sequel server; database; script; sql script; sequel script; table;</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0, 17.0)" />

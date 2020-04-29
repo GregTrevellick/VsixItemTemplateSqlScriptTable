@@ -14,12 +14,12 @@
     "coding"
   ],
   "identity": {
-    "internalName": "ItemTemplateSqlScriptStoredProcedure"
+    "internalName": "ItemTemplateSqlScriptTable"
   },
   "overview": "..\\Src\\VsmpReadMe.md",
   "priceCategory": "free",
   "publisher": "GregTrevellick",
   "private": true,
   "qna": true,
-  "repo": "https://github.com/GregTrevellick/VsixItemTemplateSqlScriptStoredProcedure"
+  "repo": "https://github.com/GregTrevellick/VsixItemTemplateSqlScriptTable"
 } 
