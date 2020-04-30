@@ -4,7 +4,7 @@
     <Name>SQL Server Table Script</Name>
     <Description>An item template SQL Server script for creating / altering a table</Description>
     <Icon>ItemTemplate.ico</Icon>
-    <TemplateID>50ff8065-716f-4581-8e6d-2aebe7044f55</TemplateID>
+    <TemplateID>3E4D6816-95C6-471E-B754-C66DE3A0BC30</TemplateID>
     <ProjectType>CSharp</ProjectType>
 	<RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
