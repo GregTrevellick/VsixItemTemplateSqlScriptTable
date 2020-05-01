@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="51D5F6DF-69CB-40D3-B70C-6F1BF1ED5081" Version="1.11.16" Language="en-US" Publisher="Greg Trevellick" />
+        <Identity Id="51D5F6DF-69CB-40D3-B70C-6F1BF1ED5081" Version="1.11.20" Language="en-US" Publisher="Greg Trevellick" />
         <DisplayName>SQL Server Table</DisplayName>
         <Description xml:space="preserve">An item template for creating / altering a SQL Server table.</Description>
         <MoreInfo>https://github.com/GregTrevellick/VsixItemTemplateSqlScriptTable</MoreInfo>
