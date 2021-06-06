@@ -58,7 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.SDK" Version="16.0.204" ExcludeAssets="runtime" />
-    <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="16.5.2047" />
+    <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.0.1600" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ItemTemplate\ItemTemplate.csproj">
